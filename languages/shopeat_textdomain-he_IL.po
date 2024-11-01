@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShopEat Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-14 12:52+0200\n"
+"PO-Revision-Date: 2012-08-14 12:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: Valentine Stoianov <service@shopeat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans.\n"
+"X-Poedit-SearchPath-0: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans\n"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:101
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:154
+msgid "ShopEat Settings"
+msgstr "הגדרות ShopEat"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:160
+msgid "Button language"
+msgstr "שפת הכפתור"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:171
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:177
+msgid "Add ShopEat button to"
+msgstr "הוסף כפתור ShopEat ל"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:179
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:200
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:217
+msgid "Choose category"
+msgstr "בחר קטגוריה"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:191
+msgid "Add ShopEat Button to posts in the selected category"
+msgstr "הוסף כפתור ShopEat לכל הכתבות בקטגוריה נבחרת"
+
+#: /Users/valentinestoianov/Documents/shopeat.co.il/wp_trans/shopeat.php:192
+msgid "Remove ShopEat Button from posts in the selected category"
+msgstr "הסר כפתור ShopEat מכל הכתבות בקטגוריה נבחרת"
+
